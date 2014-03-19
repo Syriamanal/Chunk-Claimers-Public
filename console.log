@@ -1,0 +1,21 @@
+2014-03-19 14:49:57 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-19 14:49:57 [INFO] Loading properties...
+2014-03-19 14:49:57 [INFO] Starting Minecraft PE server on *:19132
+2014-03-19 14:49:57 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-19 14:49:57 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-19 14:49:57 [INFO] Checking for new server version
+2014-03-19 14:49:57 [INFO] Last check: 2014-03-19 11:33:08
+2014-03-19 14:49:59 [INFO] This is the latest STABLE version
+2014-03-19 14:49:59 [INFO] Preparing level "cc_lobby"
+2014-03-19 14:49:59 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-19 14:49:59 [INFO] Starting GS4 status listener
+2014-03-19 14:49:59 [INFO] Setting query port to 19132
+2014-03-19 14:49:59 [INFO] Query running on 0.0.0.0:19132
+2014-03-19 14:49:59 [INFO] Default game type: SURVIVAL
+2014-03-19 14:49:59 [INFO] Starting plugins...
+2014-03-19 14:49:59 [INFO] Preparing level "cc_field"
+2014-03-19 14:49:59 [INFO] Done (6.575s)! For help, type "help" or "?"
+2014-03-19 14:50:18 [INFO] Stopping server...
+2014-03-19 14:50:18 [CMD] Stopping the server
+2014-03-19 14:50:18 [INFO] Unloading level "cc_lobby"
+2014-03-19 14:50:18 [INFO] Unloading level "cc_field"
